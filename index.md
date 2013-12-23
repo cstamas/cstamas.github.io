@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-tagline: My first attempt to use Jekyll
+tagline: The new Minimalistic Blog Factory
 ---
 
 This is my private page for blog and other "static" content. Feel free to peek around.
