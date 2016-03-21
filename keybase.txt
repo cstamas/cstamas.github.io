@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/cstamas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cstamas.org
+  * I am cstamas (https://keybase.io/cstamas) on keybase.
+  * I have a public key with fingerprint 2BE1 3D05 2E9A A567 D657  D979 1FD5 0715 4FB9 BA39
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101dd49737968a2c1af39bd26352ab34c7fcc6b1cb27808dccb7badab2dbe8333b10a",
+            "fingerprint": "2be13d052e9aa567d657d9791fd507154fb9ba39",
+            "host": "keybase.io",
+            "key_id": "1fd507154fb9ba39",
+            "kid": "0101dd49737968a2c1af39bd26352ab34c7fcc6b1cb27808dccb7badab2dbe8333b10a",
+            "uid": "3fc318e545c5f37eed4cbf4492d2b119",
+            "username": "cstamas"
+        },
+        "service": {
+            "hostname": "cstamas.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458589841,
+    "expire_in": 157680000,
+    "prev": "b4ceff7606a4b32cc608d61268eb0cdf31ad1b90b33c8dfa95a5252e188232d0",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUn1MVWUYv5jdFLErbQ0NwTghmiKe7w+mgs6ZcwYW062yLuc973vg8HHv5dzD
+1RsCjq8BgkiDtC9HOQTRLnQ37I6PhCyRYUA1i03EoiJASJDIQZSdw+qPtv7s/efd
++zy/3+/5Pc/7nFr5iMnfr/zaTP/FW/1Bfj1jwHRo6sCZLAzYoRuLzsJS0eKF0iBy
+atZUBWLRGE7gBIS0wFGcwPIiKRGiTAkAkizFkCKgaImTJYkFhARIjsd5KEmAAyIU
+AQkB4imKAgQuYpGYrNiSkOpQFZumy5IAERTEGRIJosiwHGQZDgqcQMiQwTmCoWUg
+AJESdGKy3WkwdHNAdKIoxa7H9Id10d5/4P9n35mLcpQsUQSPGJqRGJniEIK0BGSa
+FkhIAoIw6mY6kWoT05GOlpyamC46sexITA+6FAkZczUa+Tcgyq4m6UyHatfskj1N
+TyRrmiPa4GluhwE8goD1bwkrUGxQH6JOcCHVqdhtWDShIyVNMTQJmuEZXuBpIhJD
+Rx2KiqyKgWA4lsf1Y5RBLl0S0BKSZY7F2UMiDShSn4LePkuQLI8ALkGZIkRIAAEH
+FCXxUBYFRmRI/acInicpEuKY0VWGza6Lc7pRMUkXdSpJNlHLVBGW7V+yZO1Sk5+/
+yfzoEmO/TP7LV/2zdEXvWR4mpP7q++pk+dQgu5OZ3rzqhvvMzlsfxr2Q7QkOGn+l
+oDqEmPzg3uufDXXNLMCOfSUdPpf76JbHhzvrc74se8w34mnvhYrluiVm8vch0zeD
+YX+elu53uFs7m8NuBxZeIcxutXe1dPfmlZtT5du2j5a0mqsvXKqtqI9qiehJv/y1
+3FlpCajPK/3++J4ibkuyY8HPNr81KoXyujbuCsW3Hva8GHphdnTTWTUvJYJo/eRE
+17QlPK3IezW07tn4CTz2U+GG96M/Gibpvna0/+MdE7UjCcO5peubh6df2uBcQXlz
+15c9uJ5ReXfNYHxdRkHZzMX20svUue6mZNNBG11ltsb9PPd5TMS8tnY2PHHNM+/i
+T+dk76rZIdR0OUaeqvDWFBcWbfg21Pv26MIPvfUEu7euOrhytiI2fn6suNG8N+T0
++f7VGX37xvsa4cKriao54DffwBvvJ5w4Vx+YM+LzDa0LLe57Imz57tzy3HA/6U7z
+NV/Jsng5wjcwSje23K74ov27JnWA8USIpxrbGzpdQuHQ1FK6ewWWj71z50He4R9D
+ho+/tYk5EtMy7mpdtrIp/qygjTHNr4X8VPVLA9/98ra5hZQoy8SBY/cKnq+oOlYZ
+9/DJos6g2Lbd0p62zWWjB6++ud2c4/VWBwTm97QFp3haKqf2J647X+t4zhW2sfV+
+yaXArLyE/DnPXw==
+=G8WZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cstamas
+
+==================================================================
